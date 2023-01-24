@@ -12,7 +12,7 @@ Aqui seu jogo mais irritante.
 
 ### **OBJETIVO** <img width="30px" src="https://github.com/Andersonpinaj1/ProjetoFlappyBird/blob/main/imgs/bird1.png" /> 
 ***
-Esse projeto tem como o objetivo fazer a criação de uma inteligencia artificial que consiga indentificar o Cano e se adaptar para não perder o jogo nunca mais.
+Esse projeto tem como o objetivo fazer a criação de uma inteligencia artificial que consiga indentificar o obstaculos e se adaptar para não perder o jogo nunca mais.
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/ProjetoFlappyBird/blob/main/imgs/flappy-gif.gif" min-width="300px" max-width="200px" width="200px" >
@@ -21,7 +21,7 @@ Esse projeto tem como o objetivo fazer a criação de uma inteligencia artificia
  
  ### **SOBRE O Flappy Bird** <img width="30px" src="https://github.com/Andersonpinaj1/ProjetoFlappyBird/blob/main/imgs/bird1.png" />  
 ***
-Flappy Bird é um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela .GEARS studios. O jogo foi publicado em maio de 2013 para o iPhone 5, e então atualizado para o iOS 7 em setembro de 2013. Em janeiro de 2014, ele ficou no topo da categoria de jogos gratuitos da iTunes App Store chinesa e americana, e mais tarde naquele mês da loja do Reino Unido, onde foi chamado de "o novo Angry Birds". Terminou o mês de janeiro como o aplicativo mais baixado da App Store. Existe uma versão para Windows 8 e Windows 8.1.
+Flappy Bird é um jogo eletrônico para dispositivos móveis de 2013 desenvolvido em Hanói pelo programador vietnamita Nguyễn Hà Đông e publicado pela GEARS studios O jogo foi publicado em maio de 2013 para o iPhone 5, e então atualizado para o iOS 7 em setembro de 2013 e Em janeiro de 2014, ele ficou no topo da categoria de jogos gratuitos da iTunes App Store chinesa e americana, e mais tarde naquele mês da loja do Reino Unido, onde foi chamado de "o novo Angry Birds" Terminou o mês de janeiro como o aplicativo mais baixado da App Store Existe uma versão para Windows 8 e Windows 8.1.
 
 <p align= "center">
 <img src="https://github.com/Andersonpinaj1/ProjetoFlappyBird/blob/main/imgs/flappy-raiva.gif" min-width="400px" max-width="300px" width="300px" >
